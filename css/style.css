@@ -247,3 +247,7 @@ a:hover {
     background-color: var(--bs-pagination-active-bg);
     border-color: var(--bs-pagination-active-border-color);
 }
+
+@media (max-width:768px){
+    
+}
