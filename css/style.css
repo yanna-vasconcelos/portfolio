@@ -248,6 +248,11 @@ a:hover {
     border-color: var(--bs-pagination-active-border-color);
 }
 
+.px-5 {
+    padding-left: 0rem !important;
+}
+
+
 @media (max-width: 1400px){
 
 }
